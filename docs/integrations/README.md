@@ -15,7 +15,7 @@ For more information about the grading system, see [Product Release Stages](http
 ## Sources
 
 | Connector                                                                                   | Product Release Stage| Available in Cloud? |
-|:--------------------------------------------------------------------------------------------| :------------------- | :------------------ |
+|:--------------------------------------------------------------------------------------------| :------------------- |:--------------------|
 | [3PL Central](sources/tplcentral.md)                                                        | Alpha                | No                  |
 | [ActiveCampaign](sources/activecampaign.md)                                                 | Alpha                | No                  |
 | [Adjust](sources/adjust.md)                                                                 | Alpha                | No                  |
@@ -178,6 +178,7 @@ For more information about the grading system, see [Product Release Stages](http
 | [Typeform](sources/typeform.md)                                                             | Alpha                | Yes                 |
 | [US Census](sources/us-census.md)                                                           | Alpha                | Yes                 |
 | [VictorOps](sources/victorops.md)                                                           | Alpha                | No                  |
+| [Visma e-conomic](sources/visma-economic.md)                                                | Alpha                | Yes                 |
 | [Webflow](sources/webflow.md        )                                                       | Alpha                | Yes                 |
 | [Whisky Hunter](sources/whisky-hunter.md        )                                           | Alpha                | No                  |
 | [WooCommerce](sources/woocommerce.md)                                                       | Alpha                | No                  |
